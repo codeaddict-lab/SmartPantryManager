@@ -20,5 +20,13 @@ public class MainActivity extends AppCompatActivity {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
             return insets;
         });
+        setContentView(R.layout.activity_main);
+        findViewById(R.id.btnAddIngredient).setOnClickListener(view -> {
+            android.widget.Toast.makeText(
+                    MainActivity.this,
+                    "Add Ingredient tapped",
+                    android.widget.Toast.LENGTH_SHORT
+            ).show();
+        });
     }
 }
