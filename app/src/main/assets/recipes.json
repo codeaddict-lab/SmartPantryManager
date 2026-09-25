@@ -1,0 +1,442 @@
+[
+  {
+    "name": "Scrambled eggs",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Melt the butter in a pan over low heat.\n2. Beat the eggs, add them to the pan and stir gently.\n3. Cook until set and serve immediately."
+  },
+  {
+    "name": "Tomato omelette",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Chop the tomato and beat the eggs.\n2. Heat the oil and cook the tomato for 2 minutes.\n3. Pour in the eggs and cook until fully set, then fold."
+  },
+  {
+    "name": "Cheese toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "slice"
+      },
+      {
+        "name": "cheese",
+        "quantity": 40,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Place cheese on the bread.\n2. Grill until the cheese melts and the bread is golden."
+  },
+  {
+    "name": "French toast",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "slice"
+      },
+      {
+        "name": "egg",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "milk",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Beat the egg with milk.\n2. Dip both sides of the bread in the mixture.\n3. Melt butter in a pan and cook the bread on both sides until the egg is fully set."
+  },
+  {
+    "name": "Banana porridge",
+    "ingredients": [
+      {
+        "name": "oat",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "each"
+      }
+    ],
+    "steps": "1. Simmer oats and milk gently for 5 minutes, stirring.\n2. Mash in the banana and warm through."
+  },
+  {
+    "name": "Apple porridge",
+    "ingredients": [
+      {
+        "name": "oat",
+        "quantity": 50,
+        "unit": "g"
+      },
+      {
+        "name": "milk",
+        "quantity": 200,
+        "unit": "ml"
+      },
+      {
+        "name": "apple",
+        "quantity": 1,
+        "unit": "each"
+      }
+    ],
+    "steps": "1. Chop the apple finely.\n2. Simmer with oats and milk for 8 minutes, stirring until soft."
+  },
+  {
+    "name": "Mashed potatoes",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 3,
+        "unit": "each"
+      },
+      {
+        "name": "milk",
+        "quantity": 60,
+        "unit": "ml"
+      },
+      {
+        "name": "butter",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": 1000,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and chop the potatoes.\n2. Boil in the water until tender and drain.\n3. Mash with milk and butter."
+  },
+  {
+    "name": "Roasted potatoes",
+    "ingredients": [
+      {
+        "name": "potato",
+        "quantity": 3,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Cut potatoes into small wedges and coat with oil.\n2. Roast at 200 C for 35-45 minutes, turning halfway, until tender."
+  },
+  {
+    "name": "Carrot soup",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 3,
+        "unit": "each"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": 500,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Chop the vegetables.\n2. Soften onion in oil, then add carrots and water.\n3. Simmer until tender and blend carefully."
+  },
+  {
+    "name": "Tomato pasta",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 3,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 15,
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": 1000,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Boil pasta in the water until tender, then drain.\n2. Chop tomatoes and simmer in oil for 10 minutes.\n3. Stir in the cooked pasta."
+  },
+  {
+    "name": "Egg fried rice",
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Heat the oil and scramble the eggs until set.\n2. Add cooked rice and stir-fry until steaming hot throughout.\n3. Serve immediately."
+  },
+  {
+    "name": "Tomato rice",
+    "ingredients": [
+      {
+        "name": "rice",
+        "quantity": 100,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 10,
+        "unit": "ml"
+      },
+      {
+        "name": "water",
+        "quantity": 250,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Chop tomatoes and soften in oil.\n2. Add rice and water, cover and simmer until the rice is tender and the water absorbed."
+  },
+  {
+    "name": "Chickpea salad",
+    "ingredients": [
+      {
+        "name": "cooked chickpea",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "lemon",
+        "quantity": 1,
+        "unit": "each"
+      }
+    ],
+    "steps": "1. Dice the tomato and combine with cooked chickpeas.\n2. Squeeze the lemon over the salad and toss."
+  },
+  {
+    "name": "Cheese omelette",
+    "ingredients": [
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "cheese",
+        "quantity": 30,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Beat the eggs and melt butter in a pan.\n2. Add eggs, scatter over cheese and cook until set.\n3. Fold and serve."
+  },
+  {
+    "name": "Banana pancakes",
+    "ingredients": [
+      {
+        "name": "banana",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "egg",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 5,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Mash the banana and mix with beaten eggs.\n2. Heat oil in a pan.\n3. Cook small pancakes on both sides until fully set."
+  },
+  {
+    "name": "Tomato sandwich",
+    "ingredients": [
+      {
+        "name": "bread",
+        "quantity": 2,
+        "unit": "slice"
+      },
+      {
+        "name": "tomato",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Spread butter on the bread.\n2. Slice the tomato, place between the slices and serve."
+  },
+  {
+    "name": "Pepper and onion rice",
+    "ingredients": [
+      {
+        "name": "cooked rice",
+        "quantity": 200,
+        "unit": "g"
+      },
+      {
+        "name": "pepper",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "onion",
+        "quantity": 1,
+        "unit": "each"
+      },
+      {
+        "name": "oil",
+        "quantity": 15,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Slice the pepper and onion.\n2. Fry in oil until tender.\n3. Add cooked rice and stir until steaming hot throughout."
+  },
+  {
+    "name": "Buttered pasta",
+    "ingredients": [
+      {
+        "name": "pasta",
+        "quantity": 150,
+        "unit": "g"
+      },
+      {
+        "name": "butter",
+        "quantity": 20,
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": 1000,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Cook pasta in boiling water until tender.\n2. Drain and toss with butter."
+  },
+  {
+    "name": "Carrot and potato mash",
+    "ingredients": [
+      {
+        "name": "carrot",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "potato",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "butter",
+        "quantity": 15,
+        "unit": "g"
+      },
+      {
+        "name": "water",
+        "quantity": 1000,
+        "unit": "ml"
+      }
+    ],
+    "steps": "1. Peel and chop carrots and potatoes.\n2. Boil in the water until soft, then drain.\n3. Mash with butter."
+  },
+  {
+    "name": "Warm cinnamon apple",
+    "ingredients": [
+      {
+        "name": "apple",
+        "quantity": 2,
+        "unit": "each"
+      },
+      {
+        "name": "butter",
+        "quantity": 10,
+        "unit": "g"
+      },
+      {
+        "name": "cinnamon",
+        "quantity": 1,
+        "unit": "g"
+      }
+    ],
+    "steps": "1. Core and thinly slice the apples.\n2. Cook gently in butter until tender.\n3. Sprinkle with cinnamon and serve."
+  }
+]
